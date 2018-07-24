@@ -1,4 +1,4 @@
-Snippets
+<h2>Snippets</h2>
 Snippets is an application that allows users to have a space to post short snippets of cool code in different programming languages.
 In order to share on Snippets, you have to create an account and become a member.
 Snippets was created to provide users with a platform with which they can:
