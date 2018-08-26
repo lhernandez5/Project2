@@ -8,4 +8,4 @@ Snippets was created to provide users with a platform with which they can:
 <li>Receive feedback through comments</li>
 <li>Comment the posts of other members</li>
   </ul>
-Website: https://fathomless-garden-19281.herokuapp.com/
+Deployed Application: https://fathomless-garden-19281.herokuapp.com/
